@@ -7,8 +7,8 @@ https://code.google.com/p/avesta74/
 Protocols: 7.4, 7.6 & 7.7
 -----------
 - The default protocol is 7.4
-- For 7.6 compile with definition __PROTOCOL_76__
-- For 7.7 compile with definition __PROTOCOL_77__
+- For 7.6 compile with definition '__PROTOCOL_76__'
+- For 7.7 compile with definition '__PROTOCOL_77__'
 
 Revnetsys
 -----------
